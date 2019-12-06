@@ -15,7 +15,8 @@ step_list=["Check MTBF SW version and download","Flash MTBF devices",
 "Check config file settings languagepack","Check config file settings sw version",
 "Check referphone connection","check simcard enough money","Check some manual precondition done",
 "Check simcard contact removed","Check all sms message deleted","Check port set correctly for Bsim ,Chanel server & armlog",
-"Check earpiece and simcard correctly installed"]
+"Check earpiece and simcard correctly installed","Check each test run results update and PR rate after starting",
+"hourly report setup on jenkins"]
 
 def main():
     pygame.init()
